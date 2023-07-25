@@ -7,4 +7,4 @@ Variational_Autoencoders
 
 # Generated VEA
 
-![alt text](https://github.com/Ezzeldin-nasser939/Variational_Autoencoders/blob/main/Images/Generated%20VAE.png.png?raw=true)
+![alt text](https://github.com/Ezzeldin-nasser939/Variational_Autoencoders/blob/main/Images/Generated%20VAE.png?raw=true)
